@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.727ed365.chunk.css",
+    "main.js": "/portfolio/static/js/main.6b9ce6f6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6b9ce6f6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.595e1c68.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.595e1c68.js.map",
+    "static/js/2.a5ff6f29.chunk.js": "/portfolio/static/js/2.a5ff6f29.chunk.js",
+    "static/js/2.a5ff6f29.chunk.js.map": "/portfolio/static/js/2.a5ff6f29.chunk.js.map",
+    "static/js/3.e7ac7993.chunk.js": "/portfolio/static/js/3.e7ac7993.chunk.js",
+    "static/js/3.e7ac7993.chunk.js.map": "/portfolio/static/js/3.e7ac7993.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.727ed365.chunk.css.map": "/portfolio/static/css/main.727ed365.chunk.css.map",
+    "static/js/2.a5ff6f29.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a5ff6f29.chunk.js.LICENSE.txt",
+    "static/media/cafebristo.a53ac3b7.png": "/portfolio/static/media/cafebristo.a53ac3b7.png",
+    "static/media/codechef.49dbba7b.svg": "/portfolio/static/media/codechef.49dbba7b.svg",
+    "static/media/codeforces.c8f7d114.svg": "/portfolio/static/media/codeforces.c8f7d114.svg",
+    "static/media/contact.3385d92e.svg": "/portfolio/static/media/contact.3385d92e.svg",
+    "static/media/feelingProud.288e616f.svg": "/portfolio/static/media/feelingProud.288e616f.svg",
+    "static/media/flashtype.755dd9a6.png": "/portfolio/static/media/flashtype.755dd9a6.png",
+    "static/media/fullstack.32a1ffc7.svg": "/portfolio/static/media/fullstack.32a1ffc7.svg",
+    "static/media/gfg.8c75332b.svg": "/portfolio/static/media/gfg.8c75332b.svg",
+    "static/media/github.69ffd9cd.png": "/portfolio/static/media/github.69ffd9cd.png",
+    "static/media/google.1e920dda.png": "/portfolio/static/media/google.1e920dda.png",
+    "static/media/javascript.04df0976.png": "/portfolio/static/media/javascript.04df0976.png",
+    "static/media/leetcode.26900637.svg": "/portfolio/static/media/leetcode.26900637.svg",
+    "static/media/linkedin.367e73f5.png": "/portfolio/static/media/linkedin.367e73f5.png",
+    "static/media/mongo.911d6003.png": "/portfolio/static/media/mongo.911d6003.png",
+    "static/media/nameit.1fca39a7.png": "/portfolio/static/media/nameit.1fca39a7.png",
+    "static/media/node.a42296b2.svg": "/portfolio/static/media/node.a42296b2.svg",
+    "static/media/programmer.d3060f7b.svg": "/portfolio/static/media/programmer.d3060f7b.svg",
+    "static/media/projects_image.0a806256.svg": "/portfolio/static/media/projects_image.0a806256.svg",
+    "static/media/react.cb8eb538.png": "/portfolio/static/media/react.cb8eb538.png",
+    "static/media/weatherapp.c90eee66.png": "/portfolio/static/media/weatherapp.c90eee66.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.595e1c68.js",
+    "static/js/2.a5ff6f29.chunk.js",
+    "static/css/main.727ed365.chunk.css",
+    "static/js/main.6b9ce6f6.chunk.js"
+  ]
+}
